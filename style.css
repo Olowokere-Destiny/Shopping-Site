@@ -47,6 +47,9 @@ color: #000000;
     text-decoration: none;
     color: black;
 }
+.nav-links li a:hover {
+    text-decoration: 3px dotted #ff69b4 underline;
+}
 
 .sign-up {
     margin-right: 30px;
